@@ -1,9 +1,9 @@
 <h1>Анализ поискового трафика</h1>
-<p>Учёт и анализ органического трафика группы сайтов салона свадебной и вечерней моды Love Forever</p>
+<p>Учёт и анализ органического трафика группы сайтов салона свадебной и вечерней моды Love Forever.</p>
 <h2>Сайты</h2>
-<ul>
-<li>1. Москва <a href="https://www.salon-love-forever.ru">www.salon-love-forever.ru</a></li>
-<li>2. Санкт-Петербург <a href="https://spb.salon-love-forever.ru">spb.salon-love-forever.ru</li>
+<ol>
+<li>Москва <a href="https://www.salon-love-forever.ru">www.salon-love-forever.ru</a></li>
+<li>Санкт-Петербург <a href="https://spb.salon-love-forever.ru">spb.salon-love-forever.ru</li>
 
 <h2>Источники данных</h2>
 <ul>
