@@ -4,7 +4,7 @@
 <ol>
 <li>Москва <a href="https://www.salon-love-forever.ru">www.salon-love-forever.ru</a></li>
 <li>Санкт-Петербург <a href="https://spb.salon-love-forever.ru">spb.salon-love-forever.ru</li>
-
+</ol>
 <h2>Источники данных</h2>
 <ul>
 <li>Metrika.Yandex</li>
